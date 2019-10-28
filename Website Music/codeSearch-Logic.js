@@ -41,9 +41,3 @@ function getVideo(json) {
     }
 
 }
-
-// function display(a){
-//     a.style.display = 'block';
-// }
-//     https://www.youtube.com/embed/1sioip9Uc4o
-
